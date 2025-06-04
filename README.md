@@ -1,4 +1,4 @@
-# How Am I Suposed To Use Renv With Shiny Server???
+# How Am I Supposed To Use Renv With Shiny Server???
 
 This is a simple demonstration of how to orchestrate multiple shiny apps, each using their own Renv. In this case, I'll just demonstrate how one of these apps uses one R lib, and another uses a different lib.
 
