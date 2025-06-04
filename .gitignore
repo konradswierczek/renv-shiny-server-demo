@@ -1,0 +1,4 @@
+# Don't include the actual venv for demonstration purposes.
+renv
+.Rprofile
+renv.lock
